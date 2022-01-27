@@ -8,6 +8,6 @@ Em relação ao projeto original eu adicionei uma mudança no método que permit
 
 Antes da série ser excluida surge uma pergunta de confirmação e o usuário deve aceitar para então a série ser deletada.
 
-Exemplo da funcionalidde adicionada:
+Exemplo da funcionalidade adicionada:
 
 ![Alt Text](screenshot.png)
